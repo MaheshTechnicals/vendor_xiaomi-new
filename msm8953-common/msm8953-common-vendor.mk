@@ -596,11 +596,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8953-common/proprietary/vendor/lib/hw/thermal.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/thermal.msm8953.so.so \
     vendor/xiaomi/msm8953-common/proprietary/vendor/lib64/hw/thermal.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal.msm8953.so.so \
     vendor/xiaomi/msm8953-common/proprietary/vendor/radio/qcril_database/qcril.db:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/qcril.db \
-    vendor/xiaomi/msm8953-common/proprietary/vendor/bin/bin/init.goodix.sh:$(TARGET_COPY_OUT_VENDOR)/bin/bin/init.goodix.sh \
-    vendor/xiaomi/msm8953-common/proprietary/vendor/bin/bin/init.qcom.early_boot.sh:$(TARGET_COPY_OUT_VENDOR)/bin/bin/init.qcom.early_boot.sh \
-    vendor/xiaomi/msm8953-common/proprietary/vendor/bin/bin/init.qcom.post_boot.sh:$(TARGET_COPY_OUT_VENDOR)/bin/bin/init.qcom.post_boot.sh \
-    vendor/xiaomi/msm8953-common/proprietary/vendor/bin/bin/init.qcom.sh:$(TARGET_COPY_OUT_VENDOR)/bin/bin/init.qcom.sh \
-    vendor/xiaomi/msm8953-common/proprietary/vendor/bin/bin/init.qti.fm.sh:$(TARGET_COPY_OUT_VENDOR)/bin/bin/init.qti.fm.sh \
+    vendor/xiaomi/msm8953-common/proprietary/vendor/bin/init.goodix.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.goodix.sh \
+    vendor/xiaomi/msm8953-common/proprietary/vendor/bin/init.qcom.early_boot.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qcom.early_boot.sh \
+    vendor/xiaomi/msm8953-common/proprietary/vendor/bin/init.qcom.post_boot.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qcom.post_boot.sh \
+    vendor/xiaomi/msm8953-common/proprietary/vendor/bin/init.qcom.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qcom.sh \
+    vendor/xiaomi/msm8953-common/proprietary/vendor/bin/init.qti.fm.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qti.fm.sh \
     vendor/xiaomi/msm8953-common/proprietary/vendor/etc/init/android.hardware.power@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.power@1.0-service.rc \
     vendor/xiaomi/msm8953-common/proprietary/vendor/etc/init/android.hardware.sensors@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.sensors@1.0-service.rc \
     vendor/xiaomi/msm8953-common/proprietary/vendor/etc/init/android.hardware.thermal@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.thermal@1.0-service.rc \
